@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 755156e0-5b20-40ad-b150-5ea17a341cc7
-  WEBAPP-NAME: MyWebApp_VRWise
+  WEBAPP-NAME: MyWebAppVRWise
 
 
 jobs:
